@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Heliotels</string>
+    <string name="heliotels">Heliotels Kullanıcı Girişi</string>
+    <string name="DoğumYılı">"   Doğum Yılı</string>
+    <string name="KayıtOl">Kayıt Ol</string>
+    <string name="GirişYap">Giriş Yap</string>
+    <string name="Şifre">"   Şifre</string>
+    <string name="e_posta">"   E-posta</string>
+    <string name="KayıtOll">Kayıt Ol</string>
+    <string name="soyisim">"   Soyisim</string>
+    <string name="isim">"   İsim</string>
+    <string name="şifre_tekrar">"   Şifre Tekrar</string>
+    <string name="şifre">"   Şifre</string>
+    <string name="email">"   Email</string>
+    <string name="heliotelsekayitol">Heliotels\'e Kayıt Ol</string>
+    <string name="Aqua">"        İsim=  Aqua \n   Konum=  Antalya\nKapasite=  4500\n       Puan=  4.2\n       Fiyat=  3200</string>
+    <string name="Hilton">"        İsim=  Hilton \n   Konum=  Dalaman\nKapasite=  10000\n       Puan=  4.8\n       Fiyat=  4200</string>
+    <string name="MenüyüGöster">Menüyü Göster</string>
+    <string name="kirala">Kirala</string>
+    <string name="kirala2">Kirala</string>
+</resources>
